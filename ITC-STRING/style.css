@@ -1,0 +1,12 @@
+.result{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.result .size{
+    width: 90%;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
